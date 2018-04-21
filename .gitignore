@@ -52,4 +52,5 @@ $RECYCLE.BIN/
 
 target
 *.iml
+application.properties
 
