@@ -54,3 +54,4 @@ target
 *.iml
 application.properties
 
+src/test/
